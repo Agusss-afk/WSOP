@@ -1,0 +1,6 @@
+
+# Grupo 1
+User-agent: *
+allow: /
+
+Sitemap: https://agusss-afk.github.io/WSOP/sitemap.xml
