@@ -1,0 +1,9 @@
+<!ELEMENT liga (equipo+)>
+<!ELEMENT equipo (nombre, enlace, foto3)>
+<!ATTLIST equipo
+          id CDATA #REQUIRED>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT enlace (#PCDATA)>
+<!ATTLIST enlace
+          href CDATA #REQUIRED>
+<!ELEMENT foto3 (#PCDATA)>

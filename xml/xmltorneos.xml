@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xslt/torneo.xslt"?>
+
+
+
+<evento>
+  <torneo id="101">
+  	<localidad>Madrid </localidad>
+  	<lugar>Casino de Alcorcón</lugar>
+  	<hora>10.00 </hora>
+  	<modalidad>a 6 </modalidad>
+  	<foto>../fotos/XML/madrid2.jpg</foto>
+  </torneo>
+
+
+  <torneo id="102">
+  	<localidad>Barcelona </localidad>
+  	<lugar> Casino Los Robles</lugar>
+  	<hora>11.00 </hora>
+  	<modalidad>a 9 </modalidad>
+  	<foto>../fotos/XML/barcelona2.jpg</foto>
+  </torneo>
+	
+
+
+  <torneo id="103">
+  	<localidad>Sevilla </localidad>
+  	<lugar>Casino Triana Royale</lugar>
+  	<hora>18:00 </hora>
+  	<modalidad>a 5 </modalidad>
+  	<foto>../fotos/XML/sevilla2.jpg</foto>
+  </torneo>
+</evento>

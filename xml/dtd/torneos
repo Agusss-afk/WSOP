@@ -1,0 +1,9 @@
+﻿<!ELEMENT evento (torneo+)>
+<!ELEMENT torneo (localidad, lugar, hora, modalidad, foto)>
+<!ATTLIST torneo
+          id CDATA #REQUIRED>
+<!ELEMENT localidad (#PCDATA)>
+<!ELEMENT lugar (#PCDATA)>
+<!ELEMENT hora (#PCDATA)>
+<!ELEMENT modalidad (#PCDATA)>
+<!ELEMENT foto (#PCDATA)>

@@ -1,0 +1,27 @@
+{
+    "jugadores": {
+        "personas": [
+            {
+                "-id": "10",
+                "nombre": "Adrián Mateos",
+                "nacionalidad": "Española",
+                "ganancias": "20.000.000$",
+                "foto2": "../fotos/XML/jugador1.jpg"
+            },
+            {
+                "-id": "11",
+                "nombre": "Daniel Negreanu",
+                "nacionalidad": "Canadiense",
+                "ganancias": "30.000.000$",
+                "foto2": "../fotos/XML/jugador2.jpg"
+            },
+            {
+                "-id": "12",
+                "nombre": "Leo Margets",
+                "nacionalidad": "Española",
+                "ganancias": "350.000$",
+                "foto2": "../fotos/XML/jugador3.png"
+            }
+        ]
+    }
+}

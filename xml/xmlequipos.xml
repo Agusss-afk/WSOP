@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xslt/equipos.xslt"?>
+
+
+<liga>
+	<equipo id="10001">		
+		<nombre>Party Poker</nombre>
+		<enlace href=">https://www.partypoker.es">https://www.partypoker.es</enlace>
+		<foto3>../fotos/XML/equipo1.svg</foto3>
+        </equipo>
+
+	<equipo id="10002">
+		<nombre>Poker Stars</nombre>
+		<enlace href="https://www.pokerstars.es">https://www.pokerstars.es</enlace>
+                <foto3>../fotos/XML/equipo2.jpg</foto3>
+        </equipo>
+
+
+	<equipo id="10003">
+		<nombre>Winamax</nombre>
+		<enlace href="https://www.winamax.es">https://www.winamax.es/</enlace>
+                <foto3>../fotos/XML/equipo3.png</foto3>
+        </equipo>
+
+</liga>

@@ -1,0 +1,8 @@
+<!ELEMENT jugadores (personas+)>
+<!ELEMENT personas (nombre, nacionalidad, ganancias, foto2)>
+<!ATTLIST personas
+          id CDATA #REQUIRED>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT nacionalidad (#PCDATA)>
+<!ELEMENT ganancias (#PCDATA)>
+<!ELEMENT foto2 (#PCDATA)>

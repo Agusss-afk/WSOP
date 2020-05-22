@@ -1,0 +1,33 @@
+{
+    "liga": {
+        "equipo": [
+            {
+                "-id": "10001",
+                "nombre": "Party Poker",
+                "enlace": {
+                    "-href": ">https://www.partypoker.es",
+                    "#text": "https://www.partypoker.es"
+                },
+                "foto3": "../fotos/XML/equipo1.svg"
+            },
+            {
+                "-id": "10002",
+                "nombre": "Poker Stars",
+                "enlace": {
+                    "-href": "https://www.pokerstars.es",
+                    "#text": "https://www.pokerstars.es"
+                },
+                "foto3": "../fotos/XML/equipo2.jpg"
+            },
+            {
+                "-id": "10003",
+                "nombre": "Winamax",
+                "enlace": {
+                    "-href": "https://www.winamax.es",
+                    "#text": "https://www.winamax.es/"
+                },
+                "foto3": "../fotos/XML/equipo3.png"
+            }
+        ]
+    }
+}

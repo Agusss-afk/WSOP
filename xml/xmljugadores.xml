@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xslt/jugadores.xslt"?>
+
+
+<jugadores>
+	<personas id="10">		
+		<nombre>Adrián Mateos</nombre>
+		<nacionalidad>Española</nacionalidad>
+		<ganancias>20.000.000$</ganancias>
+		<foto2>../fotos/XML/jugador1.jpg</foto2>
+        </personas>
+
+	<personas id="11">
+		<nombre>Daniel Negreanu</nombre>
+		<nacionalidad>Canadiense</nacionalidad>
+		<ganancias>30.000.000$</ganancias>
+                <foto2>../fotos/XML/jugador2.jpg</foto2>
+        </personas>
+
+
+	<personas id="12">
+		<nombre>Leo Margets</nombre>
+		<nacionalidad>Española</nacionalidad>
+		<ganancias>350.000$</ganancias>
+                <foto2>../fotos/XML/jugador3.png</foto2>
+        </personas>
+
+</jugadores>

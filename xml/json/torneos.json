@@ -1,0 +1,30 @@
+{
+    "evento": {
+        "torneo": [
+            {
+                "-id": "101",
+                "localidad": "Madrid ",
+                "lugar": "Casino de Alcorcón",
+                "hora": "10.00 ",
+                "modalidad": "a 6 ",
+                "foto": "../fotos/XML/madrid2.jpg"
+            },
+            {
+                "-id": "102",
+                "localidad": "Barcelona ",
+                "lugar": " Casino Los Robles",
+                "hora": "11.00 ",
+                "modalidad": "a 9 ",
+                "foto": "../fotos/XML/barcelona2.jpg"
+            },
+            {
+                "-id": "103",
+                "localidad": "Sevilla ",
+                "lugar": "Casino Triana Royale",
+                "hora": "18:00 ",
+                "modalidad": "a 5 ",
+                "foto": "../fotos/XML/sevilla2.jpg"
+            }
+        ]
+    }
+}
